@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RGB</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="/public/css/main.css">
+
+</head>
+<body>
+
+    <div class="wrapper">
+        <header class="header-mobile">
+            <h1 class="logo">RGB</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <h1 class="logo">RGB</h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <button id="btnAgregarProducto" onclick="location.href='crear-producto.ejs'">Agregar Nuevo Producto</button>
+                    <button class="login-button" onclick="location.href='login.ejs'">Iniciar Sesión</button>
+                    <button class="register-button" onclick="location.href='registro.ejs'">Registrarse</button>
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Todos los productos</button>
+                    </li>
+                    <li>
+                        <button id="Consolas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Consolas</button>
+                    </li>
+                    <li>
+                        <button id="Controles" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Controles</button>
+                    </li>
+                    <li>
+                        <button id="Juegos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Juegos</button>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="./carrito.ejs">
+                            <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2024 RetroGameBuy</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+                <!-- Esto se va a rellenar con JS -->
+            </div>
+        </main>
+    </div>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="/src/js/main.js"></script>
+    <script src="/src/js/menu.js"></script>
+</body>
+</html>

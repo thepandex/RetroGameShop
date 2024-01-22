@@ -1,0 +1,244 @@
+[
+    {
+        "id": "GameCube",
+        "titulo": "GameCube",
+        "imagen": "../../public/img/consolas/GameCube.webp",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Nintendo 64",
+        "titulo": "Nintendo 64",
+        "imagen": "../../public/img/consolas/nintendo-64.jpeg",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PlayStation 1",
+        "titulo": "PlayStation 1",
+        "imagen": "../../public/img/consolas/ps1.webp",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PlayStation 2",
+        "titulo": "PlayStation 2",
+        "imagen": "../../public/img/consolas/ps2.webp",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Xbox 360",
+        "titulo": "Xbox 360",
+        "imagen": "../../public/img/consolas/xbox_360.webp",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Xbox",
+        "titulo": "Xbox",
+        "imagen": "../../public/img/consolas/xbox.webp",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "GameCube Controller",
+        "titulo": "GameCube Controller",
+        "imagen": "../../public/img/controles/Gamecube-controller.webp",
+        "categoria": {
+            "nombre": "Controles",
+            "id": "Controles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Nintendo 64 Controller",
+        "titulo": "Nintendo 64 Controller",
+        "imagen": "../../public/img/controles/nintendo-64-controller.jpg",
+        "categoria": {
+            "nombre": "Controles",
+            "id": "Controles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PS1 Controller",
+        "titulo": "PS1 Controller",
+        "imagen": "../../public/img/controles/ps1-controller.webp",
+        "categoria": {
+            "nombre": "Controles",
+            "id": "Controles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PS2 Controller",
+        "titulo": "PS2 Controller",
+        "imagen": "../../public/img/controles/ps2-controller.webp",
+        "categoria": {
+            "nombre": "Controles",
+            "id": "Controles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Xbox 360 Controller",
+        "titulo": "Xbox 360 Controller",
+        "imagen": "../../public/img/controles/xbox-360-controller.webp",
+        "categoria": {
+            "nombre": "Controles",
+            "id": "Controles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Xbox Controller",
+        "titulo": "Xbox Controller",
+        "imagen": "../../public/img/controles/xbox-controller.webp",
+        "categoria": {
+            "nombre": "Controles",
+            "id": "Controles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Dragon Ball Z Budokai Tenkaichi 3",
+        "titulo": "Dragon Ball Z Budokai Tenkaichi 3",
+        "imagen": "../../public/img/juegos/dragon_ball_z_budokai_tenkaichi_3-ps2.webp",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Fable",
+        "titulo": "Fable",
+        "imagen": "../../public/img/juegos/fable-xbox.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Gran Theft Auto Sanandrea",
+        "titulo": "Gran Theft Auto Sanandreas",
+        "imagen": "../../public/img/juegos/gran-theft-auto-sanandreas-ps2.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Gran Turism",
+        "titulo": "Gran Turismo",
+        "imagen": "../../public/img/juegos/gran-turismo-ps1.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Halo 3",
+        "titulo": "Halo 3",
+        "imagen": "../../public/img/juegos/halo-3-xbox-360.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "halo combat evolved",
+        "titulo": "halo combat evolved",
+        "imagen": "../../public/img/juegos/halo-combat-evolved-xbox.webp",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "metal gear solid",
+        "titulo": "metal gear solid",
+        "imagen": "../../public/img/juegos/metal-gear-solid-ps1.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "super mario 64",
+        "titulo": "super mario 64",
+        "imagen": "../../public/img/juegos/super-mario-64-nintendo-64.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "super smash bros lelee",
+        "titulo": "super smash bros lelee",
+        "imagen": "../../public/img/juegos/super-smash-bros-lelee-gamecube.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "the legend of felda ocarina of time",
+        "titulo": "the legend of felda ocarina of time",
+        "imagen": "../../public/img/juegos/th-legend-of-felda-ocarina-of-time-nintendo-64.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "the elder scrolls v skyrim",
+        "titulo": "the elder scrolls v skyrim",
+        "imagen": "../../public/img/juegos/the-elder-scrolls-v-skyrim-xbox-360.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "the legend of zelda the wind waker",
+        "titulo": "the legend of zelda the wind waker",
+        "imagen": "../../public/img/juegos/the-legend-of-zelda-the-wind-waker-gamecube.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 1000
+    }
+    
+    
+]
